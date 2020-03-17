@@ -35,8 +35,11 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
-  },
+      "showide": true,
+      "ide": "ssh host01 '/opt/start-vscode.sh'",
+      "hideintro": true,
+      "uilayout": "terminal"
+    },
   "backend": {
     "imageid": "javascript"
   }
