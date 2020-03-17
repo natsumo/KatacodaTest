@@ -1,0 +1,11 @@
+{
+  "title": "テストコース",
+  "description": "Katacodaのコースを試しに作ってみる",
+  "courses": [
+    {
+      "course_id": "test01",
+      "title": "テストシナリオ01",
+      "description": "Katacodaのシナリオを試しに作ってみる"
+    }
+  ]
+}
