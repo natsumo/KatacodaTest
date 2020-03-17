@@ -1,4 +1,4 @@
-git clone https://github.com/natsumo/ScriptTest example
+git clone https://github.com/natsumo/ScriptTest.git example
 
 cd example
 
