@@ -27,16 +27,23 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "code": "foreground.sh",
+      "credits": ""
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "showide": true,
+    "ide": "ssh host01 '/opt/start-vscode.sh'",
+    "idePort": 23000,
+    "hideintro": true,
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "javascript"
+    "imageid": "ubuntu"
   }
 }
