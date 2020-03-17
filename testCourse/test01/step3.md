@@ -1,3 +1,3 @@
-## ステップ３
+NCMB管理画面を確認するとデータが保存されていることが確認できる。
 
-NCMB管理画面を確認するとデータが保存されている。
+![check_datastore](/img/check_datastore.png)

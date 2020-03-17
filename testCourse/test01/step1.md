@@ -1,3 +1,3 @@
-## ステップ１
+`example` > `.env`ファイルを開いてAPIキーを貼る
 
-`.env`ファイルを開いてAPIキーを貼る
+![add_apykey](/img/add_apikey.png)
